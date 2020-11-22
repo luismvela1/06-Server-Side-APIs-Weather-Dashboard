@@ -1,0 +1,28 @@
+#weather{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    font-size: 20px;
+
+}
+
+.citysearch{
+    background-color: lightgray;
+    float: left;
+    padding: 25px;
+}
+#button-addon2{
+    background-color: blue;
+    color: white;
+}
+.saved{
+    padding:25px ;
+    float: left;
+    
+}
+
+#container2{
+    padding:20px;
+    float: left;
+}
